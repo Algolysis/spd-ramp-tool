@@ -33,5 +33,10 @@ To detect objects in an image you have to use a registered model by passing the 
 python3 spd-ramp-tool.py --token AlgoFactory --model my_model_key_ --predict some_input_image.jpg
 ```
 
+### Contact
+
+   Please contact us at: [contact@algolysis.com](mailto:contact@algolysis.com)
+Bugs & Feature requests: [https://github.com/Algolysis/spd-ramp-tool/issues](https://github.com/Algolysis/spd-ramp-tool/issues)
+
 ### LICENSE
 [MIT](LICENSE)

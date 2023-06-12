@@ -1,5 +1,24 @@
 #!/usr/bin/env python3
 
+#########################################################################################################################
+#                                                                                                                       #
+# Copyright (c) Algolysis Ltd                                                                                           #
+# All rights reserved.                                                                                                  #
+#                                                                                                                       #
+#########################################################################################################################
+#   Contact                                                                                                             #
+# ---------------------------                                                                                           #
+# This client is still under development and therefore we appreciate any feedback and bug reports.                      #
+#                                                                                                                       #
+#                   Contact: support@algolysis.com                                                                      #
+#   Bugs & Feature requests: https://github.com/Algolysis/spd-ramp-tool/issues                                          #
+#                                                                                                                       #
+# You can always use our web form to contact us for any reason: https://www.algolysis.com/contact                       #
+#                                                                                                                       #
+# Thank you for using our tools!                                                                                        #
+#                                                                                                                       #
+#########################################################################################################################
+
 import argparse
 import os.path
 import requests
